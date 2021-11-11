@@ -119,6 +119,13 @@ State is not stored in programs but accounts https://docs.solana.com/developing/
 Data is not immutable but requires rent https://docs.solana.com/storage_rent_economics
 Solana programs are upgradeble and redeployed to the same program id https://docs.solana.com/cli/deploy-a-program#redeploy-a-program
 
-#### Credits
+#### Resources
 
-Lots of the set up was from buildspace Solana course
+- Lots of the set up was from buildspace's free Solana course
+  - login required: https://app.buildspace.so/courses/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3
+- Similar hello world walk through
+  - https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+- Developing in Solana 101 (2021-07-17). TLDR; very different than Ethereum
+  - https://2501babe.github.io/posts/solana101.html#programs-and-accounts
+- Anchor 101 (2021-10-29): TLDR; abstracts a lot of the complexities of Solana (Rails-ish)
+  - https://2501babe.github.io/posts/anchor101.html
